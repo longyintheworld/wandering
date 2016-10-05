@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2d4c1b2-6858-4641-9074-e51224f1d6d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/code-highlighting-post/index.html" afterPath="$PROJECT_DIR$/_site/code-highlighting-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/markdown-syntax/index.html" afterPath="$PROJECT_DIR$/_site/markdown-syntax/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/mathjax-example/index.html" afterPath="$PROJECT_DIR$/_site/mathjax-example/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/moon-theme/index.html" afterPath="$PROJECT_DIR$/_site/moon-theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/posts/index.html" afterPath="$PROJECT_DIR$/_site/posts/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/index.html" afterPath="$PROJECT_DIR$/_site/projects/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/readability-feature-post/index.html" afterPath="$PROJECT_DIR$/_site/readability-feature-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/readability-post/index.html" afterPath="$PROJECT_DIR$/_site/readability-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sample-post-images/index.html" afterPath="$PROJECT_DIR$/_site/sample-post-images/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/index.html" afterPath="$PROJECT_DIR$/_site/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/video-post/index.html" afterPath="$PROJECT_DIR$/_site/video-post/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="wandering.iws" />
     <ignored path=".idea/workspace.xml" />
