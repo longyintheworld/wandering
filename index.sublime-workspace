@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"spotLight"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Slideshow"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"setti",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pakeage",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"uninstall",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"unstall",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:insall ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+			"package control",
+			"package",
+			"install",
+			"PakeageControl",
+			"tlmgr install ctex",
+			"tlmgr gui",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Aero/Documents/GitHub/wandering/Gemfile",
+		"/Users/Aero/Documents/GitHub/wandering-the-world/_config.yml",
+		"/Users/Aero/Documents/GitHub/movement.old.bak/_posts/2016-10-02-fristflowmap.markdown",
+		"/Users/Aero/Documents/GitHub/MovementVis/Gemfile",
+		"/Users/Aero/Documents/GitHub/MovementVis/_config.yml",
+		"/Users/Aero/Downloads/leonids-master/_config.yml",
+		"/Users/Aero/Documents/GitHub/movementvisualization/.DS_Store",
+		"/Users/Aero/Documents/GitHub/MovementVis/_posts/2016-10-02-fristflowmap.markdown",
+		"/Users/Aero/Documents/GitHub/MovementVis/_posts/2016-10-04-guomap2014.markdown",
+		"/Users/Aero/Documents/GitHub/MovementVis/index.html",
+		"/Users/Aero/Documents/GitHub/MovementVis/css/main.scss",
+		"/Users/Aero/Downloads/master",
+		"/Users/Aero/Documents/GitHub/pagetest/index.html",
+		"/Users/Aero/Documents/GitHub/MovementVis/_layouts/default.html",
+		"/Users/Aero/WebstormProjects/Iceland/data/flightdata.json",
+		"/Users/Aero/WebstormProjects/Iceland/data/flowlines.json",
+		"/Users/Aero/WebstormProjects/flow-map-projectstage-1/QiujunFlowMap.html",
+		"/Users/Aero/WebstormProjects/grab12306/lib/grab_train.js",
+		"/Users/Aero/WebstormProjects/grab12306/lib/grab_station.js",
+		"/Users/Aero/Downloads/world.json",
+		"/Users/Aero/PycharmProjects/Scrapy/tutorial/quotes-1.html",
+		"/Users/Aero/Downloads/PlaneFinderTour-VLG6290.kml",
+		"/Users/Aero/Downloads/dfd.txt",
+		"/Users/Aero/WebstormProjects/sampleApp/data/overijsselverhuizen2005.csv",
+		"/Users/Aero/WebstormProjects/sampleApp/data/overijsselverhuizen2010.csv",
+		"/Library/LaunchDaemons/com.antirevisionist.plist",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter2.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter4.tex",
+		"/Users/Aero/Downloads/Thesis_Template/Chapters/Chapter1.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter1.tex",
+		"/Users/Aero/Downloads/Thesis_Template/main.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter2.5.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter2.5.log",
+		"/Users/Aero/Downloads/Emmigration-flowline.json",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/MastersDoctoralThesis.cls",
+		"/Users/Aero/Downloads/Thesis_Template/MastersDoctoralThesis.cls",
+		"/Users/Aero/Downloads/Thesis_Template/main.pdf",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/YuhangResearch.bib",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex_legacy.sty",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.bbl",
+		"/Users/Aero/Downloads/IEEE BibTeX style/main.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main-blx.bib",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/PhD_RP.sublime-project",
+		"/Users/Aero/Downloads/Thesis_Template/example.bib",
+		"/Users/Aero/Downloads/Thesis_Template/main-blx.bib",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter5.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter6.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter7.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/Chapters/Chapter3.tex",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.pdf",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.toc",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.aux",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.blg",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.fdb_latexmk",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.fls",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.lof",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.log",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.out",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.lot",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.run.xml",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.sublime-workspace",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/example.bib",
+		"/Users/Aero/Documents/__Ariticles/PhD Research Proposal/main.synctex.gz",
+		"/Users/Aero/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/Users/Aero/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Aero/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Aero/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/ResearchProposal.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/Chapter1.tex",
+		"/Users/Aero/Downloads/thesis_1/Chapters/ChapterTemplate.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/thesis_main.tex",
+		"/Users/Aero/Downloads/thesis_1/main.tex",
+		"/Users/Aero/Downloads/thesis_1/Chapters/Chapter1.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/lucidatestpage.tex",
+		"/usr/local/texlive/texmf-local/fonts/map/dvips/lucidabr.map",
+		"/usr/local/texlive/2015/texmf-config/tex/generic/config/pdftexconfig.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/thesis_frontpages.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/untitled.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/phd.cls",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/utitcphd.cls",
+		"/Users/Aero/WebstormProjects/threejs-maps/places.json",
+		"/Users/Aero/Library/texmf/tex/latex/itc/ResearchProposal.tex",
+		"/Users/Aero/Documents/workspace/untitled.html",
+		"/Users/Aero/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Aero/Library/texmf/tex/latex/itc/thesis_main.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/about-itc-latex-template/LocalTex/tex/latex/itc/thesis_main.tex",
+		"/Users/Aero/Desktop/thesis_main.tex 替身",
+		"/Users/Aero/Desktop/thesis_main.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/Research Proposal.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/Research Proposal/Research Proposal.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/Research Proposal/thesis_main.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/111.tex",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/research_proposal.tex",
+		"/Users/Aero/Documents/__Ariticles/thoughts/不能承受的学习成本之轻/不能承受的学习成本之轻.tex",
+		"/Users/Aero/Documents/__Ariticles/thoughts/不能承受的学习成本之轻.tex",
+		"/Users/Aero/Documents/__Ariticles/thoughts/demoChinese.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/xelatex/xecjk/xeCJK.sty",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def",
+		"/Users/Aero/Documents/__Ariticles/thoughts/学习成本.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/ctex/ctexart.cls",
+		"/Users/Aero/Documents/__Ariticles/thoughts/untitled.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/Users/Aero/Documents/__Ariticles/shcolar/LocalTex/tex/latex/itc/untitled",
+		"/Users/Aero/Documents/__Ariticles/It does not matter whether you.tex",
+		"/Users/Aero/Downloads/LocalTex/tex/latex/itc/PhDthesis.tex",
+		"/Users/Aero/Downloads/LocalTex/tex/latex/itc/utitcphd.cls",
+		"/Users/Aero/Downloads/TE_report_template_LaTeX/Report.tex",
+		"/Users/Aero/Downloads/LocalTex/TeXnicCenter/Templates/Documents/ITC/utitcphd.cls",
+		"/Users/Aero/Downloads/LocalTex/TeXnicCenter/Templates/Documents/ITC/PhDthesis.tex",
+		"/Users/Aero/Downloads/LocalTex/TeXnicCenter/Templates/Documents/ITC/MScthesis.tex",
+		"/Users/Aero/Downloads/TeXnicCenter/Templates/Documents/ITC/PhDthesis.tex",
+		"/Users/Aero/Downloads/TeXnicCenter/Templates/Documents/ITC/MScProposal.tex",
+		"/Users/Aero/Downloads/Templates/Documents/ITC/MScProposal.tex",
+		"/Users/Aero/Downloads/Templates/Documents/English/Titlepage.tex",
+		"/Users/Aero/Downloads/Templates/Documents/ITC/PhDthesis.tex",
+		"/Users/Aero/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/Wechat/1.2/5916b19ee8195247516fa279900749cc/Message/MessageTemp/3584ff421a831ccb95c70c59534905a7/OpenData/51.tex",
+		"/Users/Aero/Downloads/TE_report_template_LaTeX/summary.tex",
+		"/Users/Aero/Documents/__Ariticles/first latex",
+		"/Users/Aero/Documents/__Ariticles/untitled.tex"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"use_coderay",
+			"svg",
+			"getColumnHeight",
+			"startlayout",
+			"mapDiv",
+			".on",
+			"on",
+			"map",
+			"thomas2005",
+			"}):",
+			"printbibliography",
+			".\n",
+			"abstract",
+			"\\usepackage{cite}",
+			"bib",
+			"printbibliography",
+			"bib",
+			"\\ref",
+			"ref",
+			"makechapterhead",
+			"macro",
+			"thepage",
+			"titlesec",
+			"titleformat",
+			"sethead",
+			"chaptertitle",
+			"pagestyle",
+			"chapter",
+			"mdtChapapp",
+			"abovechapterspace",
+			"thechapter",
+			"headmark",
+			"thechapter",
+			"chapter",
+			":\n",
+			"Faculty Name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/__Ariticles/PhD Research Proposal/main.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
