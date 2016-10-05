@@ -1,44 +1,28 @@
-This repository is no longer maintained. 
-============
+# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-Herring Cove
-============
+**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
+## Preview
 
-### Overview 
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-### Screenshots
+## Getting Started
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
-
-### Setup
-
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
-
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
-
-### Download
-
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
-
-### License
-* [MIT](http://opensource.org/licenses/MIT)
-
--------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
-
-*What's with the name?*
-
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
