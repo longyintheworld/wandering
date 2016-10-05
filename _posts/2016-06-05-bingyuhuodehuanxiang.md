@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
+title: "诗与岁月同歌：来自冰与火的幻象"
+date: 2012-06-05
+excerpt: " 那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。 ——北岛《波兰来客》"
+tags: [游记]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
