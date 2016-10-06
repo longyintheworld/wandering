@@ -2,55 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2d4c1b2-6858-4641-9074-e51224f1d6d4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/albums/alb09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g01/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g01/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g01/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g02/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g02/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g02/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g03/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g03/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g03/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g04/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g04/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g04/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g05/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g05/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g05/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g06/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g06/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g06/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g07/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g07/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g07/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g08/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g08/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g08/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g09/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g09/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/archive/g09/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery01/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery02/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery03/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery04/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery05/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery06/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery07/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery08/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/gallery09/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery01/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery02/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery03/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery03/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery04/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery04/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery05/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery05/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery06/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery06/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery07/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery07/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery08/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/gallery09/index.html" afterPath="$PROJECT_DIR$/_site/gallery/gallery09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gallery/index.html" afterPath="$PROJECT_DIR$/_site/gallery/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
     </list>
     <ignored path="wandering.iws" />
@@ -88,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.23255815">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -120,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7710843">
-              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state vertical-scroll-proportion="-18.666666">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.666666">
+              <caret line="105" column="28" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -179,12 +155,12 @@
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/social-links.html" />
         <option value="$PROJECT_DIR$/tags/index.html" />
         <option value="$PROJECT_DIR$/_includes/meta.html" />
         <option value="$PROJECT_DIR$/about/index.md" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -832,14 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/gallery">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -852,14 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33734939">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -906,8 +866,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7710843">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state vertical-scroll-proportion="-18.666666">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.666666">
+          <caret line="105" column="28" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23255815">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
           <folding />
         </state>
       </provider>
