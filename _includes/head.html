@@ -56,5 +56,27 @@
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
+
+    <!--new added-->
     <link rel="stylesheet" href="https://longyintheworld.github.io/wandering/css/galleries.css">
     <link rel="stylesheet" href= "https://longyintheworld.github.io/wandering/css/selena.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="{{ site.basurl }}/favicon.ico?" type="image/x-icon">
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html',''| prepend: site.url }}">
+    <!-- CSS -->
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="{{ " /css/bootstrap.min.css " | prepend: site.url }}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ " /css/galleries.css " | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ " /css/super-search.css " | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ " /css/magnificpopup.css " | prepend: site.url }}">
+    <!-- Custom Fonts -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
