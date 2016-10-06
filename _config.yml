@@ -9,12 +9,6 @@ background:         'assets/img/dali.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://longyintheworld.github.io/wandering
-#baseurl:            "https://longyintheworld.github.io/wandering"
-
-#nav:
- # - GALLERY: "https://longyintheworld.github.io/wandering/gallery/"
- # - JOURNAL: "https://longyintheworld.github.io/wandering/journal/"
- # - ABOUT: "https://longyintheworld.github.io/wandering/about/"
 
 # Jekyll
 permalink:          /:title/

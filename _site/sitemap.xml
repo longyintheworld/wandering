@@ -39,13 +39,13 @@
 <loc>https://longyintheworld.github.io/wandering/gallery/gallery09/</loc>
 </url>
 <url>
-<loc>https://longyintheworld.github.io/wandering/gallery/</loc>
-</url>
-<url>
 <loc>https://longyintheworld.github.io/wandering/</loc>
 </url>
 <url>
 <loc>https://longyintheworld.github.io/wandering/tags/</loc>
+</url>
+<url>
+<loc>https://longyintheworld.github.io/wandering/posts/</loc>
 </url>
 <url>
 <loc>https://longyintheworld.github.io/wandering/projects/</loc>
@@ -54,6 +54,9 @@
 <loc>https://longyintheworld.github.io/wandering/about/</loc>
 </url>
 <url>
-<loc>https://longyintheworld.github.io/wandering/posts/</loc>
+<loc>https://longyintheworld.github.io/wandering/gallery/</loc>
+</url>
+<url>
+<loc>https://longyintheworld.github.io/wandering/gallery/o-index/</loc>
 </url>
 </urlset>
