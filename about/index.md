@@ -6,7 +6,7 @@ date: 2016-10-07
 comments: false
 ---
     
-<center>千秋邈矣读留我，百战归来再读书。</center>
+<center>千秋邈矣独留我，百战归来再读书。</center>
 
 ## 我
 
