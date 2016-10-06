@@ -46,8 +46,7 @@ gallery-date: November 2014
 <html class="no-js" lang="en">
 <head>
     <meta content="charset=utf-8">
-    <link rel="stylesheet" href="{{ "
-    /css/selena.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/selena.css" | prepend: site.url }}">
 </head>
 
 <body class="gallery">
@@ -66,8 +65,8 @@ gallery-date: November 2014
                 <figure class="effect-selena">
                     <header class='gallery-icon'>
 
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-                            <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+                        <a href="{{ site.url }}{{ image.gallery-folder }}">
+                            <img src="{{ site.url }}{{ image.image_path }}"></a>
 
                     </header>
                     <figcaption class='gallery-caption'>
