@@ -8,10 +8,10 @@ comments: false
     
 <center>千秋邈矣读留我，百战归来再读书。</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
+## 我
+* 喜欢翻书 史料笔记
+* 背包客 搭车一万公里 只要有路的地方，就一定能到
+* 摄影 人像 曾经走过很多地方，但问我什么景色最迷人，我一定会告诉你，是那里的people
 * Syntax highlighting
 * Optional post image
 * Social icons
