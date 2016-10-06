@@ -1,0 +1,167 @@
+---
+title: "ALBUMS"
+description: "archive"
+active: gallery
+header-img: "assets/img/dali.jpg"
+images:
+- image_path: /gallery/albums/alb01.jpg
+gallery-folder: /gallery/gallery01/
+gallery-name: gallery1
+gallery-date: July 2015
+- image_path: /gallery/albums/alb02.jpg
+gallery-folder: /gallery/gallery02/
+gallery-name: gallery2
+gallery-date: June 2015
+- image_path: /gallery/albums/alb03.jpg
+gallery-folder: /gallery/gallery03/
+gallery-name: gallery3
+gallery-date: May 2015
+- image_path: /gallery/albums/alb04.jpg
+gallery-folder: /gallery/gallery04/
+gallery-name: gallery4
+gallery-date: April 2015
+- image_path: /gallery/albums/alb05.jpg
+gallery-folder: /gallery/gallery05/
+gallery-name: gallery5
+gallery-date: March 2015
+- image_path: /gallery/albums/alb06.jpg
+gallery-folder: /gallery/gallery06/
+gallery-name: gallery6
+gallery-date: February 2015
+- image_path: /gallery/albums/alb07.jpg
+gallery-folder: /gallery/gallery07/
+gallery-name: gallery7
+gallery-date: January 2015
+- image_path: /gallery/albums/alb08.jpg
+gallery-folder: /gallery/gallery08/
+gallery-name: gallery8
+gallery-date: December 2014
+- image_path: /gallery/albums/alb09.jpg
+gallery-folder: /gallery/gallery09/
+gallery-name: gallery9
+gallery-date: November 2014
+---
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+
+
+<body class="gallery">
+
+
+<section id="content" role="main">
+    <div class="wrapper">
+        <h2>{{page.title}}</h2>
+        <!-- Gallery __-->
+        <div class="gallery masonry-gallery">
+
+
+            <!--try by hand-->
+            <figure class="gallery-item">
+                <figure class="effect-selena">
+                            <img src="/gallery/albums/alb01.jpg">
+                </figure>
+            </figure>
+
+
+        </div>
+    </div>
+    <!-- END .wrapper -->
+</section>
+<br>
+</body>
+
+
+
+
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title">
+                    <h1>{{ gallery.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
+
+
+                <div class="post-list">
+                    This is gallery
+
+
+                    <section id="content" role="main">
+                        <div class="wrapper">
+
+
+                            <h2>{{page.title}}</h2>
+
+                            <!-- Gallery __-->
+                            <div class="gallery masonry-gallery">
+                                {% for image in page.images %}
+
+                                <figure class="gallery-item">
+                                    <figure class="effect-selena">
+                                        <img src="/gallery/albums/alb01.jpg">
+                                    </figure>
+                                </figure>
+
+
+                                <figure class="gallery-item">
+                                    <figure class="effect-selena">
+                                        <header class='gallery-icon'>
+                                            <a href="{{ image.gallery-folder }}">
+                                                <img src="{{ image.image_path }}"></a>
+                                        </header>
+                                        <figcaption class='gallery-caption'>
+                                            <div class="entry-summary">
+                                                <h3>{{image.gallery-name}}</h3>
+                                                <p>{{image.gallery-date}}</p>
+                                            </div>
+                                        </figcaption>
+                                    </figure>
+                                </figure>
+
+                                {% endfor %}
+
+                            </div>
+
+                        </div><!-- END .wrapper -->
+                    </section>
+
+
+                    <!-- jQuery -->
+
+                    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+                    <script src="{{ site.url }}/js/retina.min.js"></script>
+                    <!-- include Masonry -->
+                    <script src="{{ site.url }}/js/isotope.pkgd.min.js"></script>
+                    <!-- include mousewheel plugins -->
+                    <script src="{{ site.url }}/js/jquery.mousewheel.min.js"></script>
+                    <!-- include carousel plugins -->
+                    <script src="{{ site.url}}/js/jquery.tinycarousel.min.js"></script>
+                    <!-- include svg line drawing plugin -->
+                    <script src="{{ site.url }}/js/jquery.lazylinepainter.min.js"></script>
+                    <!-- include custom script -->
+                    <script src="{{ site.url }}/js/scripts.js"></script>
+                    <!-- Modernizr -->
+                    <script src="{{ site.url }}/js/modernizr.js"></script>
+                </div>
+
+
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+</body>
+</html>
