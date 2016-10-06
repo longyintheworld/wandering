@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: 影集
+excerpt: "龙吟摄影"
 comments: false
 ---
