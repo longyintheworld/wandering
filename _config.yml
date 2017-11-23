@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I love this world.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://longyintheworld.github.io/wandering" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://longyintheworld.github.io/wandering/" # the base hostname & protocol for your site, e.g. http://example.com
 #url: ""
 #<div><center>Cartographer </center><center>Wanderluster</center><center>Bookworm</center><center>Shutterbug</center><center>Gymaholic</center></div>
 site-twitter: #if your site has a twitter account, enter it here
