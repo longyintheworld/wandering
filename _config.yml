@@ -3,15 +3,15 @@ description: > # this means to ignore newlines until "baseurl:"
   I love this world.
 permalink: ':title/'
 baseurl:  # the subpath of your site, e.g. /blog
-url: https://longyintheworld.github.io/wandering # the base hostname & protocol for your site, e.g. http://example.com
-#url: ""
+#url: https://longyintheworld.github.io/wandering # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 #<div><center>Cartographer </center><center>Wanderluster</center><center>Bookworm</center><center>Shutterbug</center><center>Gymaholic</center></div>
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Yuhang # add your name
 author-img: yuhang.jpg # add your photo
-about-author: Cartographer # add description
+about-author: <div><center>Cartographer</center><center>Wanderluster</center><center>Bookworm</center><center>Shutterbug</center><center>Gymaholic</center></div> # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: YuhangGu # add your Github handle
