@@ -1,22 +1,23 @@
-title: Hello, world! I'm David Freeman
+title: Yuhang wandering in the world
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I love this world.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://longyintheworld.github.io/wandering/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: ""
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Yuhang # add your name
+author-img: yuhang.jpg # add your photo
+about-author: <div><center>Cartographer </center><center>Wanderluster</center><center>Bookworm</center><center>Shutterbug</center><center>Gymaholic</center></div> # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+github: YuhangGu # add your Github handle
+instagram: gu_yuhang
+linkedin: # add your Linkedin 
+weibo: u/2234197177?profile_ftype=1&is_all=1#_0
+email: gu_yuhang@outlook.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
